@@ -1,0 +1,9 @@
+.places-card__paragraph {
+  margin: 0;
+  font-size: 18px;
+  line-height: 163%;
+}
+
+.places-card__paragraph:nth-child(2) {
+  margin-top: 26px;
+}
