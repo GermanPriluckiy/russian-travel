@@ -4,3 +4,10 @@
   justify-content: space-between;
   margin: 0 auto 56px auto;
 }
+
+@media screen and (max-width: 1024px) {
+  .header {
+    margin: 0 auto 48px auto;
+  }
+
+}
