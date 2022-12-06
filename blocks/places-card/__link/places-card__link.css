@@ -2,4 +2,9 @@
   font-size: 18px;
   line-height: 122%;
   color: white;
+  transition: opacity 0.6s;
+}
+
+.places-card__link:hover {
+  opacity: .8;
 }
