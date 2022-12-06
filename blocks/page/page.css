@@ -4,10 +4,10 @@
   font-family: 'Inter', Arial, Helvetica, sans-serif;
   color: #FFFFFF;
   background-color: #2A2C2F;
-  /*border: 5px solid blue; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
   padding-bottom: 24px;
   padding-top: 28px;
+  /*border: 5px solid blue; */
 }

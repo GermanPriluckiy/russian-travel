@@ -3,12 +3,10 @@
   line-height: 1.165;
   color: #FFFFFF;
   text-decoration: none;
-  margin-right: 14px;
+  margin-right: 18px;
 }
 .header__lang-link:last-child {
   margin-right: 0px;
 }
 
-.header__lang-link:active {
-  text-decoration: underline;
-}
+
