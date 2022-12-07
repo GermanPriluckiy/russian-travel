@@ -2,28 +2,26 @@
   margin: 0;
   font-size: 18px;
   line-height: 163%;
+  margin-top: 26px;
 }
 
-.places-card__paragraph:nth-child(2) {
-  margin-top: 26px;
+.places-card__paragraph:first-child {
+  margin-top: 0;
 }
 
 
 @media screen and (max-width: 768px) {
   .places-card__paragraph {
     font-size: 16px;
-
-  }
-
-  .places-card__paragraph:nth-child(2) {
     margin-top: 25px;
+
   }
 
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 560px) {
   .places-card__paragraph {
-    margin: 0 auto;
+    margin: 25 auto 0 auto;
   }
 
 }

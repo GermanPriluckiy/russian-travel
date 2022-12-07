@@ -4,6 +4,8 @@
   font-weight: 900;
   font-size: 72px;
   line-height: 106%;
+  display: flex;
+  align-items: flex-end;
 
 }
 
@@ -15,11 +17,12 @@
 
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 560px) {
   .places-card__title {
     font-size: 32px;
     line-height: 109%;
-    margin: 0 auto;
+    margin: 0;
+    max-width: 288px;
 
   }
 
