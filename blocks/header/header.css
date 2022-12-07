@@ -11,3 +11,18 @@
   }
 
 }
+
+@media screen and (max-width:768px) {
+  .header {
+    max-width: calc(100% - 48px);
+
+  }
+
+}
+
+@media screen and (max-width: 425px) {
+  .header {
+    max-width: calc(100% - 32px);
+  }
+
+}

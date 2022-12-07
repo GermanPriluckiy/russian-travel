@@ -7,3 +7,23 @@
 .places-card__paragraph:nth-child(2) {
   margin-top: 26px;
 }
+
+
+@media screen and (max-width: 768px) {
+  .places-card__paragraph {
+    font-size: 16px;
+
+  }
+
+  .places-card__paragraph:nth-child(2) {
+    margin-top: 25px;
+  }
+
+}
+
+@media screen and (max-width: 425px) {
+  .places-card__paragraph {
+    margin: 0 auto;
+  }
+
+}

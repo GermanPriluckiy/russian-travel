@@ -3,13 +3,23 @@
   line-height: 1.2;
   text-align: center;
   max-width: 640px;
-  margin: 39px auto 64px auto;
+  margin: 32px auto 64px auto;
 
   }
 
   @media screen and (max-width: 1024px) {
     .lead__subtitle {
-      margin: 39px auto 56px auto;
+      margin: 32px auto 56px auto;
+    }
+
+  }
+
+  @media screen and (max-width: 425px) {
+    .lead__subtitle {
+      margin: 16px auto 40px auto;
+      font-size: 16px;
+      line-height: 125%;
+
     }
 
   }
