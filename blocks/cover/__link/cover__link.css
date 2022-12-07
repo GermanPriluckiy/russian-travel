@@ -13,7 +13,6 @@
   background-size: cover;
 
  }
-
  .cover__link::before {
   content: '';
   background-color: #2A2C2F;
