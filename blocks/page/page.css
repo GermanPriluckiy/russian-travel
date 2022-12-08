@@ -7,14 +7,6 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  padding-bottom: 24px;
-  padding-top: 28px;
 
 }
 
-@media screen and (max-width: 425px) {
-  .page {
-    padding-top: 16px;
-  }
-
-}

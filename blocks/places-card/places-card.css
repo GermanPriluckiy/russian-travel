@@ -1,11 +1,10 @@
 .places-card {
   max-width: 100%;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: 1fr 3fr;
+  grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);
   column-gap: 40px;
   row-gap: 48px;
-  margin-top: 80px;
+  margin-top: 75px;
 
 }
 
@@ -15,6 +14,7 @@
 
 @media screen and (max-width: 1024px) {
   .places-card {
+    grid-template-columns: 1fr 1fr;
     column-gap: 32px;
   }
 
