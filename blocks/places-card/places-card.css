@@ -25,7 +25,7 @@
   .places-card {
     column-gap: 28px;
     grid-template-columns: 1fr minmax(346px, 352px);
-    margin-top: 73px
+    margin-top: 73px;
 
   }
 
