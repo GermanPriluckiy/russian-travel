@@ -19,7 +19,7 @@
 
 }
 
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 673px) {
   .places-card__paragraph {
     margin: 25px 16px 0;
     text-align:start;

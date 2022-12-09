@@ -10,12 +10,13 @@
   .places-card__title {
     font-size: 42px;
     line-height: 110%;
+    /* width: 95%; */
 
   }
 
 }
 
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 673px) {
   .places-card__title {
     font-size: 32px;
     line-height: 109%;

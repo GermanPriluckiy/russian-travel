@@ -4,7 +4,7 @@
   align-self: flex-end;
 }
 
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 673px) {
   .places-card__website {
     margin-left: 16px;
 

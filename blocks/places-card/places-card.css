@@ -24,14 +24,14 @@
 @media screen and (max-width: 768px) {
   .places-card {
     column-gap: 28px;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr minmax(346px, 352px);
     margin-top: 73px
 
   }
 
 }
 
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 673px) {
   .places-card {
     grid-template-columns: 1fr;
     margin-top: 50px;
