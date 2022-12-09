@@ -2,12 +2,12 @@
   max-width: calc(100% - 84px);
   display: flex;
   justify-content: space-between;
-  margin: 28px auto 56px auto;
+  margin: 28px auto 56px;
 }
 
 @media screen and (max-width: 1024px) {
   .header {
-    margin: 28px auto 48px auto;
+    margin: 28px auto 48px;
   }
 
 }
@@ -23,7 +23,7 @@
 @media screen and (max-width: 560px) {
   .header {
     max-width: calc(100% - 32px);
-    margin: 16px auto 48px auto;
+    margin: 16px auto 48px;
   }
 
 }

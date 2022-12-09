@@ -21,7 +21,9 @@
 
 @media screen and (max-width: 560px) {
   .places-card__paragraph {
-    margin: 25 auto 0 auto;
+    margin: 25px 16px 0;
+    text-align:start;
+
   }
 
 }
